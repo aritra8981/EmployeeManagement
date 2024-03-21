@@ -9,7 +9,7 @@ public class EmployeeManagement {
 		System.out.println("Press 2. Display Employee Details");
 		System.out.println("Press 3. Update Employee Details");
 		System.out.println("Press 4. Delete Employee Details");
-		System.out.println("Press 5. To Exit");
+
 		
 		Scanner s = new Scanner(System.in);
 		choice = s.nextInt();
